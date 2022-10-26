@@ -1,0 +1,12 @@
+.logo
+{
+    width: 2px
+    height: 2px;;
+}
+
+.focus
+{
+    background-color: rgb(104, 32, 32);
+    text-align: center;
+    color: rgb(250, 248, 245);
+}
